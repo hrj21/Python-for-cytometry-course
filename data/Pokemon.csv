@@ -1,0 +1,252 @@
+Nat,Pokemon,HP,Atk,Def,SA,SD,Spd,Total,Type.I,Type.II,Gender,Evolves.From,Evolves.Into,Captive
+1,Bulbasaur,45,49,49,65,65,45,318,Grass,Poison,M (87.5%),--,Ivysaur,Captive
+2,Ivysaur,60,62,63,80,80,60,405,Grass,Poison,M (87.5%),Bulbasaur,Venusaur,Wild
+3,Venusaur,80,82,83,100,100,80,525,Grass,Poison,M (87.5%),Ivysaur,--,Captive
+4,Charmander,39,52,43,60,50,65,309,Fire,,M (87.5%),--,Charmeleon,Captive
+5,Charmeleon,58,64,58,80,65,80,405,Fire,,M (87.5%),Charmander,Charizard,Captive
+6,Charizard,78,84,78,109,85,100,534,Fire,Flying,M (87.5%),Charmeleon,--,Captive
+7,Squirtle,44,48,65,60,54,43,314,Water,,M (87.5%),--,Wartortle,Captive
+8,Wartortle,59,63,80,65,80,58,405,Water,,M (87.5%),Squirtle,Blastoise,Wild
+9,Blastoise,79,83,100,85,105,78,530,Water,,M (87.5%),Wartortle,--,Captive
+10,Caterpie,45,30,35,20,20,45,195,Bug,,50/50,--,Metapod,Wild
+11,Metapod,50,20,55,25,25,30,205,Bug,,50/50,Caterpie,Butterfree,Captive
+12,Butterfree,60,45,50,80,80,70,385,Bug,Flying,50/50,Metapod,--,Wild
+13,Weedle,40,35,30,20,20,50,195,Bug,Poison,50/50,--,Kakuna,Captive
+14,Kakuna,45,25,50,25,25,35,205,Bug,Poison,50/50,Weedle,Beedrill,Captive
+15,Beedrill,65,80,40,40,80,75,380,Bug,Poison,50/50,Kakuna,--,Wild
+16,Pidgey,40,45,40,35,35,56,251,Normal,Flying,50/50,--,Pidgeotto,Captive
+17,Pidgeotto,63,60,55,50,50,71,349,Normal,Flying,50/50,Pidgey,Pidgeot,Captive
+18,Pidgeot,83,80,75,70,70,91,469,Normal,Flying,50/50,Pidgeotto,--,Wild
+19,Rattata,30,56,35,25,35,72,253,Normal,,50/50,--,Ratticate,Captive
+20,Raticate,55,81,60,50,70,97,413,Normal,,50/50,Rattata,--,Captive
+21,Spearow,40,60,30,31,31,70,262,Normal,Flying,50/50,--,Fearow,Captive
+22,Fearow,65,90,65,61,61,100,442,Normal,Flying,50/50,Spearow,--,Captive
+23,Ekans,30,60,44,40,54,55,283,Poison,,50/50,--,Arbok,Wild
+24,Arbok,60,85,69,65,79,80,438,Poison,,50/50,Ekans,--,Wild
+25,Pikachu,35,55,30,50,40,90,300,Electric,,50/50,Pichu,Raichu,Captive
+26,Raichu,60,90,55,90,80,100,475,Electric,,50/50,Pikachu,--,Captive
+27,Sandshrew,50,75,85,20,30,40,300,Ground,,50/50,--,Sandslash,Captive
+28,Sandslash,75,100,110,45,55,65,450,Ground,,50/50,Sandshrew,--,Wild
+29,Nidoran (F),55,47,52,40,40,41,275,Poison,,F (100%),--,Nidorina,Wild
+30,Nidorina,70,62,67,55,55,56,365,Poison,,F (100%),Nidoran (F),Nidoqueen,Wild
+31,Nidoqueen,90,82,87,75,85,76,495,Poison,Ground,F (100%),Nidorina,--,Captive
+32,Nidoran (M),46,57,40,40,40,50,273,Poison,,M (100%),--,Nidorino,Captive
+33,Nidorino,61,72,57,55,55,65,365,Poison,,M (100%),Nidoran (M),Nidoking,Wild
+34,Nidoking,81,92,77,85,75,85,495,Poison,Ground,M (100%),Nidorino,--,Wild
+35,Clefairy,70,45,48,60,65,35,323,Normal,,F (75%),Cleffa,Clefable,Captive
+36,Clefable,95,70,73,85,90,60,473,Normal,,F (75%),Clefairy,--,Captive
+37,Vulpix,38,41,40,50,65,65,299,Fire,,F (75%),--,Ninetales,Captive
+38,Ninetales,73,76,75,81,100,100,505,Fire,,F (75%),Vulpix,--,Wild
+39,Jigglypuff,115,45,20,45,25,20,270,Normal,,F (75%),Igglybuff,Wigglytuff,Wild
+40,Wigglytuff,140,70,45,75,50,45,425,Normal,,F (75%),Jigglypuff,--,Wild
+41,Zubat,40,45,35,30,40,55,245,Poison,Flying,50/50,--,Golbat,Wild
+42,Golbat,75,80,70,65,75,90,455,Poison,Flying,50/50,Zubat,Crobat,Wild
+43,Oddish,45,50,55,75,65,30,320,Grass,Poison,50/50,--,Gloom,Wild
+44,Gloom,60,65,70,85,75,40,395,Grass,Poison,50/50,Oddish,Vileplume/Bellossom,Wild
+45,Vileplume,75,80,85,100,90,50,480,Grass,Poison,50/50,Gloom,--,Wild
+46,Paras,35,70,55,45,55,25,285,Bug,Grass,50/50,--,Parasect,Wild
+47,Parasect,60,95,80,60,80,30,405,Bug,Grass,50/50,Paras,--,Captive
+48,Venonat,60,55,50,40,55,45,305,Bug,Poison,50/50,--,Venemoth,Captive
+49,Venomoth,70,65,60,90,75,90,450,Bug,Poison,50/50,Venonat,--,Wild
+50,Diglett,10,55,25,35,45,95,265,Ground,,50/50,--,Dugtrio,Captive
+51,Dugtrio,35,80,50,50,70,120,405,Ground,,50/50,Diglett,--,Captive
+52,Meowth,40,45,35,40,40,90,290,Normal,,50/50,--,Persian,Captive
+53,Persian,65,70,60,65,65,115,440,Normal,,50/50,Meowth,--,Wild
+54,Psyduck,50,52,48,65,50,55,320,Water,,50/50,--,Golduck,Wild
+55,Golduck,80,82,78,95,80,85,500,Water,,50/50,Psyduck,--,Captive
+56,Mankey,40,80,35,35,45,70,305,Fighting,,50/50,--,Primeape,Captive
+57,Primeape,65,105,60,60,70,95,455,Fighting,,50/50,Mankey,--,Captive
+58,Growlithe,55,70,45,70,50,60,350,Fire,,M (75%),--,Arcanine,Wild
+59,Arcanine,90,110,80,100,80,95,555,Fire,,M (75%),Growlithe,--,Wild
+60,Poliwag,40,50,40,40,40,90,300,Water,,50/50,--,Poliwhirl,Wild
+61,Poliwhirl,65,65,65,50,50,90,385,Water,,50/50,Poliwag,"Poliwrath, Politoed",Wild
+62,Poliwrath,90,85,95,70,90,70,500,Water,Fighting,50/50,Poliwhirl,--,Wild
+63,Abra,25,20,15,105,55,90,310,Psychic,,M (75%),--,Kadabra,Captive
+64,Kadabra,40,35,30,120,70,105,400,Psychic,,M (75%),Kadabra,Alakazam,Wild
+65,Alakazam,55,50,45,135,85,120,490,Psychic,,M (75%),Alakazam,--,Captive
+66,Machop,70,80,50,35,35,35,305,Fighting,,M (75%),--,Machoke,Captive
+67,Machoke,80,100,70,50,60,45,405,Fighting,,M (75%),Machop,Machamp,Wild
+68,Machamp,90,130,80,65,85,55,505,Fighting,,M (75%),Machoke,--,Captive
+69,Bellsprout,50,75,35,70,30,40,300,Grass,Poison,50/50,--,Weepinbell,Wild
+70,Weepinbell,65,90,50,85,45,55,390,Grass,Poison,50/50,Bellsprout,Victreebell,Wild
+71,Victreebel,80,105,65,100,60,70,480,Grass,Poison,50/50,Weepinbell,--,Wild
+72,Tentacool,40,40,35,50,100,70,335,Water,Poison,50/50,--,Tentacruel,Captive
+73,Tentacruel,80,70,65,80,120,100,515,Water,Poison,50/50,Tentacool,--,Captive
+74,Geodude,40,80,100,30,30,20,300,Rock,Ground,50/50,--,Graveller,Wild
+75,Graveler,55,95,115,45,45,35,390,Rock,Ground,50/50,Geodude,Golem,Captive
+76,Golem,80,110,130,55,65,45,485,Rock,Ground,50/50,Graveller,--,Captive
+77,Ponyta,50,85,55,65,65,90,410,Fire,,50/50,--,Rapidash,Captive
+78,Rapidash,65,100,70,80,80,105,500,Fire,,50/50,Ponyta,--,Captive
+79,Slowpoke,90,65,65,40,40,15,315,Water,Psychic,50/50,--,Slowbro,Captive
+80,Slowbro,95,75,110,100,80,30,490,Water,Psychic,50/50,Slowpoke,Sloking,Wild
+81,Magnemite,25,35,70,95,55,45,325,Electric,Steel,None,--,Magneton,Captive
+82,Magneton,50,60,95,120,70,70,465,Electric,Steel,None,Magnemite,Magnezone,Wild
+83,Farfetch'd,52,65,55,58,62,60,352,Normal,Flying,50/50,--,--,Captive
+84,Doduo,35,85,45,35,35,75,310,Normal,Flying,50/50,--,Dodrio,Wild
+85,Dodrio,60,110,70,60,60,100,460,Normal,Flying,50/50,Doduo,--,Captive
+86,Seel,65,45,55,45,70,45,325,Water,,50/50,--,Dewgong,Captive
+87,Dewgong,90,70,80,70,95,70,475,Water,Ice,50/50,Seel,--,Wild
+88,Grimer,80,80,50,40,50,25,325,Poison,,50/50,--,Muk,Captive
+89,Muk,105,105,75,65,100,50,500,Poison,,50/50,Grimer,--,Captive
+90,Shellder,30,65,100,45,25,40,305,Water,,50/50,--,Cloyster,Wild
+91,Cloyster,50,90,180,85,45,70,520,Water,Ice,50/50,Shellder,--,Captive
+92,Gastly,30,35,30,100,35,80,310,Ghost,Poison,50/50,--,Haunter,Captive
+93,Haunter,45,50,45,115,55,95,405,Ghost,Poison,50/50,Gastly,Gengar,Captive
+94,Gengar,60,65,60,130,75,110,500,Ghost,Poison,50/50,Haunter,--,Captive
+95,Onix,35,45,160,30,45,70,385,Rock,Ground,50/50,--,Steelix,Wild
+96,Drowzee,60,48,45,43,90,42,328,Psychic,,50/50,--,Hypno,Wild
+97,Hypno,85,73,70,73,115,67,483,Psychic,,50/50,Drowzee,--,Captive
+98,Krabby,30,105,90,25,25,50,325,Water,,50/50,--,Kingler,Captive
+99,Kingler,55,130,115,50,50,75,475,Water,,50/50,Krabby,--,Captive
+100,Voltorb,40,30,50,55,55,100,330,Electric,,None,--,Electrode,Wild
+101,Electrode,60,50,70,80,80,140,480,Electric,,None,Voltorb,--,Wild
+102,Exeggcute,60,40,80,60,45,40,325,Grass,Psychic,50/50,--,Exeggutor,Wild
+103,Exeggutor,95,95,85,125,65,55,520,Grass,Psychic,50/50,Exeggcute,--,Captive
+104,Cubone,50,50,95,40,50,35,320,Ground,,50/50,--,Marowak,Captive
+105,Marowak,60,80,110,50,80,45,425,Ground,,50/50,Cubone,--,Wild
+106,Hitmonlee,50,120,53,35,110,87,455,Fighting,,M (100%),Tyrogue,--,Wild
+107,Hitmonchan,50,105,79,35,110,76,455,Fighting,,M (100%),Tyrogue,--,Captive
+108,Lickitung,90,55,75,60,75,30,385,Normal,,50/50,--,Lickilicky,Captive
+109,Koffing,40,65,95,60,45,35,340,Poison,,50/50,--,Weezing,Captive
+110,Weezing,65,90,120,85,70,60,490,Poison,,50/50,Koffing,--,Wild
+111,Rhyhorn,80,85,95,30,30,25,345,Ground,Rock,50/50,--,Rhydon,Wild
+112,Rhydon,105,130,120,45,45,40,485,Ground,Rock,50/50,Rhyhorn,Rhyperior,Wild
+113,Chansey,250,5,5,35,105,50,450,Normal,,F (100%),Happiny,Blissey,Wild
+114,Tangela,65,55,115,100,40,60,435,Grass,,50/50,--,Tangrowth,Wild
+115,Kangaskhan,105,95,80,40,80,90,490,Normal,,F (100%),--,--,Wild
+116,Horsea,30,40,70,70,25,60,295,Water,,50/50,--,Seadra,Wild
+117,Seadra,55,65,95,95,45,85,440,Water,,50/50,Horsea,Kingdra,Wild
+118,Goldeen,45,67,60,35,50,63,320,Water,,50/50,--,Seaking,Wild
+119,Seaking,80,92,65,65,80,68,450,Water,,50/50,Goldeen,--,Captive
+120,Staryu,30,45,55,70,55,85,340,Water,,None,--,Starmie,Captive
+121,Starmie,60,75,85,100,85,115,520,Water,Psychic,None,Staryu,--,Wild
+122,Mr. Mime,40,45,65,100,120,90,460,Psychic,,50/50,Mime Jr.,--,Captive
+123,Scyther,70,110,80,55,80,105,500,Bug,Flying,50/50,--,Scizor,Captive
+124,Jynx,65,50,35,115,95,95,455,Ice,Psychic,F (100%),Smoochum,--,Captive
+125,Electabuzz,65,83,57,95,85,105,490,Electric,,M (75%),--,Electivire,Wild
+126,Magmar,65,95,57,100,85,93,495,Fire,,M (75%),--,Magmortar,Wild
+127,Pinsir,65,125,100,55,70,85,500,Bug,,50/50,--,--,Captive
+128,Tauros,75,100,95,40,70,110,490,Normal,,M (100%),--,--,Captive
+129,Magikarp,20,10,55,15,20,80,200,Water,,50/50,--,Gyarados,Captive
+130,Gyarados,95,125,79,60,100,81,540,Water,Flying,50/50,Magikarp,--,Wild
+131,Lapras,130,85,80,85,95,60,535,Water,Ice,50/50,--,--,Wild
+132,Ditto,48,48,48,48,48,48,288,Normal,,None,--,--,Wild
+133,Eevee,55,55,50,45,65,55,325,Normal,,M (87.5%),--,"Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon",Wild
+134,Vaporeon,130,65,60,110,95,65,525,Water,,M (87.5%),Eevee,--,Wild
+135,Jolteon,65,65,60,110,95,130,525,Electric,,M (87.5%),Eevee,--,Captive
+136,Flareon,65,130,60,95,110,65,525,Fire,,M (87.5%),Eevee,--,Wild
+137,Porygon,65,60,70,85,75,40,395,Normal,,None,--,Porygon 2,Captive
+138,Omanyte,35,40,100,90,55,35,355,Rock,Water,M (87.5%),--,Omastar,Captive
+139,Omastar,70,60,125,115,70,55,495,Rock,Water,M (87.5%),Omanyte,--,Wild
+140,Kabuto,30,80,90,55,45,55,355,Rock,Water,M (87.5%),--,Kabutops,Captive
+141,Kabutops,60,115,105,65,70,80,495,Rock,Water,M (87.5%),Kabuto,--,Wild
+142,Aerodactyl,80,105,65,60,75,130,515,Rock,Flying,M (87.5%),--,--,Wild
+143,Snorlax,160,110,65,65,110,30,540,Normal,,M (87.5%),Munchlax,--,Wild
+144,Articuno,90,85,100,95,125,85,580,Ice,Flying,None,--,--,Captive
+145,Zapdos,90,90,85,125,90,100,580,Electric,Flying,None,--,--,Captive
+146,Moltres,90,100,90,125,85,90,580,Fire,Flying,None,--,--,Wild
+147,Dratini,41,64,45,50,50,50,300,Dragon,,50/50,--,Dragonair,Captive
+148,Dragonair,61,84,65,70,70,70,420,Dragon,,50/50,Dratini,Dragonite,Captive
+149,Dragonite,91,134,95,100,100,80,600,Dragon,Flying,50/50,Dragonair,--,Captive
+150,Mewtwo,106,110,90,154,90,130,680,Psychic,,None,--,--,Captive
+151,Mew,100,100,100,100,100,100,600,Psychic,,None,--,--,Captive
+152,Chikorita,45,49,65,49,65,45,318,Grass,,M (87.5%),--,Bayleef,Wild
+153,Bayleef,60,62,80,63,80,69,414,Grass,,M (87.5%),Chikorita,Cynaquil,Captive
+154,Meganium,80,82,100,83,100,80,525,Grass,,M (87.5%),Bayleaf,--,Wild
+155,Cyndaquil,39,52,43,60,50,65,309,Fire,,M (87.5%),--,Quilava,Captive
+156,Quilava,58,64,58,80,65,80,405,Fire,,M (87.5%),Cyndaquil,Typhlosion,Wild
+157,Typhlosion,78,84,78,109,85,100,534,Fire,,M (87.5%),Quilava,--,Captive
+158,Totodile,50,65,64,44,48,43,314,Water,,M (87.5%),--,Croconaw,Captive
+159,Croconaw,65,80,80,59,63,58,405,Water,,M (87.5%),Totodile,Feraligatr,Wild
+160,Feraligatr,85,105,100,79,83,78,530,Water,,M (87.5%),Croconaw,--,Captive
+161,Sentret,35,46,34,35,45,20,215,Normal,,50/50,--,Furret,Captive
+162,Furret,85,76,64,45,55,90,415,Normal,,50/50,Sentret,--,Wild
+163,Hoothoot,60,30,30,36,56,50,262,Normal,Flying,50/50,--,Noctowl,Captive
+164,Noctowl,100,50,50,76,96,70,442,Normal,Flying,50/50,Hoothoot,--,Captive
+165,Ledyba,40,20,30,40,80,55,265,Bug,Flying,50/50,--,Ledian,Captive
+166,Ledian,55,35,50,55,110,85,390,Bug,Flying,50/50,Ledyba,--,Captive
+167,Spinarak,40,60,40,40,40,30,250,Bug,Poison,50/50,--,Ariados,Wild
+168,Ariados,70,90,70,60,60,40,390,Bug,Poison,50/50,Spinarak,--,Wild
+169,Crobat,85,90,80,70,80,130,535,Poison,Flying,50/50,Golbat,--,Captive
+170,Chinchou,75,38,38,56,56,67,330,Water,Electric,50/50,--,Lanturn,Captive
+171,Lanturn,125,58,58,76,76,67,460,Water,Electric,50/50,Chinchou,--,Captive
+172,Pichu,20,40,15,35,35,60,205,Electric,,50/50,--,Pikachu,Wild
+173,Cleffa,50,25,28,45,55,15,218,Normal,,F (75%),--,Clefairy,Wild
+174,Igglybuff,90,30,15,40,20,15,210,Normal,,F (75%),--,Jigglypuff,Wild
+175,Togepi,35,20,65,40,65,20,245,Normal,,M (87.5%),--,Togetic,Captive
+176,Togetic,55,40,85,80,105,40,405,Normal,Flying,M (87.5%),Togepi,Togekiss,Captive
+177,Natu,40,50,45,70,45,70,320,Psychic,Flying,50/50,--,Xatu,Wild
+178,Xatu,65,75,70,95,70,95,470,Psychic,Flying,50/50,Natu,--,Wild
+179,Mareep,55,40,40,65,45,35,280,Electric,,50/50,--,Flaafy,Captive
+180,Flaaffy,70,55,55,80,60,45,365,Electric,,50/50,Mareep,Ampharados,Captive
+181,Ampharos,90,75,75,115,90,55,500,Electric,,50/50,Flaafy,--,Captive
+182,Bellossom,75,80,85,90,100,50,480,Grass,,50/50,Gloom,--,Wild
+183,Marill,70,20,50,20,50,40,250,Water,,50/50,Azurill,Azumarill,Wild
+184,Azumarill,100,50,80,50,80,50,410,Water,,50/50,Marill,--,Wild
+185,Sudowoodo,70,100,115,30,65,30,410,Rock,,50/50,Bonsly,--,Wild
+186,Politoed,90,75,75,90,100,70,500,Water,,50/50,Polywhirl,--,Wild
+187,Hoppip,35,35,40,35,55,50,250,Grass,Flying,50/50,--,Skiploom,Wild
+188,Skiploom,55,45,50,45,65,80,340,Grass,Flying,50/50,Hoppip,Jumpluff,Wild
+189,Jumpluff,75,55,70,55,85,110,450,Grass,Flying,50/50,Skiploom,--,Wild
+190,Aipom,55,70,55,40,55,85,360,Normal,,50/50,--,Ambipom,Wild
+191,Sunkern,30,30,30,30,30,30,180,Grass,,50/50,--,Sunflora,Captive
+192,Sunflora,75,75,55,105,85,30,425,Grass,,50/50,Sunkern,--,Captive
+193,Yanma,65,65,45,75,45,95,390,Bug,Flying,50/50,--,Yanmega,Wild
+194,Wooper,55,45,45,25,25,15,210,Water,Ground,50/50,--,Quagsire,Captive
+195,Quagsire,95,85,85,65,65,35,430,Water,Ground,50/50,Wooper,--,Captive
+196,Espeon,65,65,60,130,95,110,525,Psychic,,M (87.5%),Eevee,--,Captive
+197,Umbreon,95,65,110,60,130,65,525,Dark,,M (87.5%),Eevee,--,Wild
+198,Murkrow,60,85,42,85,42,91,405,Dark,Flying,50/50,--,Honchkrow,Wild
+199,Slowking,95,75,80,100,110,30,490,Water,Psychic,50/50,Slowbro,--,Captive
+200,Misdreavus,60,60,60,85,85,85,435,Ghost,,50/50,--,Mismagius,Captive
+201,Unown,48,72,48,72,48,48,336,Psychic,,None,--,--,Captive
+202,Wobbuffet,190,33,58,33,58,33,405,Psychic,,50/50,Wynaut,--,Wild
+203,Girafarig,70,80,65,90,65,85,455,Normal,Psychic,50/50,--,--,Wild
+204,Pineco,50,65,90,35,35,15,290,Bug,,50/50,--,Forretress,Wild
+205,Forretress,75,90,140,60,60,40,465,Bug,Steel,50/50,Pineco,--,Wild
+206,Dunsparce,100,70,70,65,65,45,415,Normal,,50/50,--,--,Wild
+207,Gligar,65,75,105,35,65,85,430,Ground,Flying,50/50,--,Gliscor,Captive
+208,Steelix,75,85,200,55,65,30,510,Steel,Ground,50/50,Onix,--,Wild
+209,Snubbull,60,80,50,40,40,30,300,Normal,,F (75%),--,Granbull,Captive
+210,Granbull,90,120,75,60,60,45,450,Normal,,F (75%),Snubbull,--,Captive
+211,Qwilfish,65,95,75,55,55,85,430,Water,Poison,50/50,--,--,Wild
+212,Scizor,70,130,100,55,80,65,500,Bug,Steel,50/50,Scyther,--,Captive
+213,Shuckle,20,10,230,10,230,5,505,Bug,Rock,50/50,--,--,Wild
+214,Heracross,80,125,75,40,95,85,500,Bug,Fighting,50/50,--,--,Wild
+215,Sneasel,55,95,55,35,75,115,430,Dark,Ice,50/50,--,Weavile,Wild
+216,Teddiursa,60,80,50,50,50,40,330,Normal,,50/50,--,Ursaring,Captive
+217,Ursaring,90,130,75,75,75,55,500,Normal,,50/50,Teddiursa,--,Captive
+218,Slugma,40,40,40,70,40,20,250,Fire,,50/50,--,Magcargo,Wild
+219,Magcargo,50,50,120,80,80,30,410,Fire,Rock,50/50,Slugma,--,Captive
+220,Swinub,50,50,40,30,30,50,250,Ice,Ground,50/50,--,Piloswine,Captive
+221,Piloswine,100,100,80,60,60,50,450,Ice,Ground,50/50,Swinub,Mamoswine,Captive
+222,Corsola,55,55,85,65,85,35,380,Water,Rock,F (75%),--,--,Captive
+223,Remoraid,35,65,35,65,35,65,300,Water,,50/50,--,Octillery,Captive
+224,Octillery,75,105,75,105,75,45,480,Water,,50/50,Remoraid,--,Wild
+225,Delibird,45,55,45,65,45,75,330,Ice,Flying,50/50,--,--,Captive
+226,Mantine,65,40,70,80,140,70,465,Water,Flying,50/50,Mantyke,--,Wild
+227,Skarmory,65,80,140,40,70,70,465,Steel,Flying,50/50,--,--,Captive
+228,Houndour,45,60,30,80,50,65,330,Dark,Fire,50/50,--,Houndoom,Wild
+229,Houndoom,75,90,50,110,80,95,500,Dark,Fire,50/50,Houndour,--,Captive
+230,Kingdra,75,95,95,95,95,85,540,Water,Dragon,50/50,Seadra,--,Captive
+231,Phanpy,90,60,60,40,40,40,330,Ground,,50/50,--,Donphan,Wild
+232,Donphan,90,120,120,60,60,50,500,Ground,,50/50,Phanphy,--,Captive
+233,Porygon2,85,80,90,105,95,60,515,Normal,,None,Porygon,Porygon z,Captive
+234,Stantler,73,95,62,85,65,85,465,Normal,,50/50,--,--,Wild
+235,Smeargle,55,20,35,20,45,75,250,Normal,,50/50,--,--,Captive
+236,Tyrogue,35,35,35,35,35,35,210,Fighting,,M (100%),--,"Hitmontop, Hitmonchan, Hitmonlee",Captive
+237,Hitmontop,50,95,95,35,110,70,455,Fighting,,M (100%),Tyrogue,--,Captive
+238,Smoochum,45,30,15,85,65,65,305,Ice,Psychic,F (100%),--,Jynx,Captive
+239,Elekid,45,63,37,65,55,95,360,Electric,,M (75%),--,Electabuzz,Wild
+240,Magby,45,75,37,70,55,83,365,Fire,,M (75%),--,Magmar,Wild
+241,Miltank,95,80,105,40,70,100,490,Normal,,F (100%),--,--,Captive
+242,Blissey,255,10,10,75,135,55,540,Normal,,F (100%),Chansey,--,Captive
+243,Raikou,90,85,75,115,100,115,580,Electric,,None,--,--,Captive
+244,Entei,115,115,85,90,75,100,580,Fire,,None,--,--,Wild
+245,Suicune,100,75,115,90,115,85,580,Water,,None,--,--,Wild
+246,Larvitar,50,64,50,45,50,41,300,Rock,Ground,50/50,--,Pupitar,Wild
+247,Pupitar,70,84,70,65,70,51,410,Rock,Ground,50/50,Larvitar,Tyranitar,Captive
+248,Tyranitar,100,134,110,95,100,61,600,Rock,Dark,50/50,Pupitar,--,Captive
+249,Lugia,106,90,130,90,154,110,680,Psychic,Flying,None,--,--,Wild
+250,Ho-oh,106,130,90,110,154,90,680,Fire,Flying,None,--,--,Wild
+251,Celebi,100,100,100,100,100,100,600,Psychic,Grass,None,--,--,Captive
